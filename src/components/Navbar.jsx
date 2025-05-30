@@ -5,9 +5,9 @@ export default function Navbar() {
     <nav className="bg-white shadow-md px-6 py-4 flex justify-between items-center">
       <div className="flex items-center gap-2">
         <img src="https://cybknow.com/wp-content/uploads/2025/02/logo.png" alt="Logo" className="h-6" /> 
-        <span className="text-xl font-semibold text-green-600">Cybknow</span>
+        <span className="text-xl font-semibold text-purple-700">Cybknow</span>
         <span className="text-xl font-semibold text-black">Learning</span>
-        <span className="text-xl font-semibold text-green-600">Hub</span>
+        <span className="text-xl font-semibold text-purple-700">Hub</span>
       </div>
 
       <ul className="flex space-x-6 text-[#1c1c3b] font-medium">
